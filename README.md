@@ -53,6 +53,7 @@ Kategori penilaian terdiri dari:
 Setiap kategori memiliki beberapa indikator yang diukur secara kuantitatif.
 
 ## Cara Kerja
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d162d88e-2d2f-477e-91e3-3dcea117ff2b" />
 
 1. Pemustaka mengakses halaman survey melalui OPAC
 2. Pemustaka mencari dan memilih data dirinya
@@ -98,6 +99,7 @@ Field utama:
 * created_at
 
 ## Output Laporan
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/abf11dcd-60c4-4620-930a-979b8e0d7fad" />
 
 Laporan yang dihasilkan meliputi:
 
