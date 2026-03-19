@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Survey Layanan
- * Plugin URI: https://github.com/indra-f-r
+ * Plugin URI: https://github.com/indra-f-r/survey_layanan
  * Description: Survey Kepuasan Perpustakaan
  * Version: 1.0.0
  * Author: Indra Febriana Rulliawan
