@@ -99,7 +99,7 @@ Field utama:
 * created_at
 
 ## Output Laporan
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/abf11dcd-60c4-4620-930a-979b8e0d7fad" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/552fdb6e-9f76-4fb9-9b47-18d6627c181e" />
 
 Laporan yang dihasilkan meliputi:
 
